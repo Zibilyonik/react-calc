@@ -1,3 +1,7 @@
+body {
+  background-color: aliceblue;
+  color: rgb(57, 54, 57);
+}
 .App {
   text-align: center;
 }
